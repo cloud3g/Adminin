@@ -1,0 +1,8 @@
+D:\net\Adminin\Adminin\obj\Debug\ResolveAssemblyReference.cache
+D:\net\Adminin\Adminin\obj\Debug\Adminin.frmMain.resources
+D:\net\Adminin\Adminin\obj\Debug\Adminin.Properties.Resources.resources
+D:\net\Adminin\Adminin\obj\Debug\Adminin.csproj.GenerateResource.Cache
+D:\net\Adminin\Adminin\bin\Debug\Adminin.exe
+D:\net\Adminin\Adminin\bin\Debug\Adminin.pdb
+D:\net\Adminin\Adminin\obj\Debug\Adminin.exe
+D:\net\Adminin\Adminin\obj\Debug\Adminin.pdb

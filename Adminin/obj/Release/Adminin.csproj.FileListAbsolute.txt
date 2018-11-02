@@ -1,0 +1,10 @@
+D:\net\Adminin\Adminin\bin\Release\Adminin.exe
+D:\net\Adminin\Adminin\bin\Release\Adminin.pdb
+D:\net\Adminin\Adminin\obj\Release\ResolveAssemblyReference.cache
+D:\net\Adminin\Adminin\obj\Release\Adminin.frmMain.resources
+D:\net\Adminin\Adminin\obj\Release\Adminin.Properties.Resources.resources
+D:\net\Adminin\Adminin\obj\Release\Adminin.csproj.GenerateResource.Cache
+D:\net\Adminin\Adminin\obj\Release\Adminin.exe
+D:\net\Adminin\Adminin\obj\Release\Adminin.pdb
+D:\net\winform\tools\Adminin\Adminin\obj\Release\Adminin.exe
+D:\net\winform\tools\Adminin\Adminin\obj\Release\Adminin.pdb
